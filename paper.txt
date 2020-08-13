@@ -6,5 +6,6 @@ chapter2
 2.1
 2.4
 2.5
+2.6
 chapter3
 3.1
